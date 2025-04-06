@@ -1,6 +1,11 @@
-# Conflictos en Github
+# practica 3
 
-Partimos de un repositorio en github con varios ficheros.
+Crea un fichero README.md en la raiz para poner una descripcion del proyecto
 
-1. Clona el repositorio en dos carpetas diferentes para simular varias personas trabajando.
-   - Crea varios repositorios con nombres de distintas personas. Ej, Maria,Pepe,Juan ...
+1. usa markdown
+pone distintos estilos, una cabecera, un link a donde quiera y una imagen.
+# Listado de archivos
+
+Archivos del directorio:
+
+- [leeme](readme.md)
