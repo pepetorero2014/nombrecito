@@ -1,4 +1,4 @@
-en el readme no pongo nada
+en el readme no pongo nadaaa
 # practica 3
 
 Crea un fichero README.md en la raiz para poner una descripcion del proyecto
