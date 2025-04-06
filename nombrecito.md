@@ -9,3 +9,8 @@ pone distintos estilos, una cabecera, un link a donde quiera y una imagen.
 Archivos del directorio:
 
 - [leeme](readme.md)
+
+imagen
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
